@@ -1,0 +1,51 @@
+body {
+font-family: Arial, sans-serif;
+margin:0;
+background:#f7f3ec;
+color:#222;
+text-align:center;
+}
+
+
+header {
+padding:50px 20px;
+}
+
+
+.logo {
+width:120px;
+}
+
+
+h1 {
+font-size:40px;
+}
+
+
+.button {
+
+display:inline-block;
+background:#111;
+color:white;
+padding:15px 25px;
+border-radius:8px;
+text-decoration:none;
+margin-top:20px;
+
+}
+
+
+section {
+
+padding:40px 20px;
+
+}
+
+
+footer {
+
+background:#111;
+color:white;
+padding:20px;
+
+}
